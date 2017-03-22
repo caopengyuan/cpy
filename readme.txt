@@ -6,6 +6,6 @@ abcd
 sucess if serializable
 I LOVE Chain
 Chain love ME
-Creating a new branch is quick and esay
+no ff
 
 
