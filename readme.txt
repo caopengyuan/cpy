@@ -16,4 +16,5 @@ haizeiwnag
 >>>>>>> dev
 =======
 huoyingrenzhe
->>>>>>> dev
+Creating a new branch is quick and esay
+
