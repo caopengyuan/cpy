@@ -6,4 +6,10 @@ abcd
 sucess if serializable
 I LOVE Chain
 Chain love ME
+<<<<<<< HEAD
 海贼王
+=======
+dfasdf
+Creating a new branch is quick.
+haizeiwnag
+>>>>>>> dev
